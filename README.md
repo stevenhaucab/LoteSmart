@@ -1,4 +1,4 @@
-# LoteSmart
+# 🏗️ LoteSmart
 
 **LoteSmart** is a web-based land lot sales and management platform built with Laravel.  
 It helps real estate developers and sales teams streamline the lot reservation process, payment tracking, and user roles administration.
