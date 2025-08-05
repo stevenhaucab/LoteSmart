@@ -44,19 +44,6 @@ It helps real estate developers and sales teams streamline the lot reservation p
    php artisan serve
 Note: For Docker setup using Laradock, see /docs/docker-setup.md (coming soon).
 
-📁 Project Structure
-
-lotesmart/
-├── app/
-├── bootstrap/
-├── config/
-├── database/
-├── public/
-├── resources/
-├── routes/
-├── storage/
-└── tests/
-
 👥 Roles Overview
 | Role        | Capabilities                                                   |
 | ----------- | -------------------------------------------------------------- |
